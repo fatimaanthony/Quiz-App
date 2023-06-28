@@ -8,7 +8,7 @@ isSubmitted = false //use to show the results
 
 myQuestions=[
     {
-        id: "question1",
+        id: "Question 1",
         question:"Which one of the following is not a template loop?",
         answers:{
             a:"for:each loop",
@@ -18,7 +18,7 @@ myQuestions=[
         correctAnswer: "c"
     },
     {
-        id: "question2",
+        id: "Question 2",
         question:"Which of the file is invalid in LWC component folder?",
         answers:{
             a:".svg",
@@ -28,7 +28,7 @@ myQuestions=[
         correctAnswer: "b"
     },
     {
-        id: "question3",
+        id: "Question 3",
         question:"Which one of the following is not directive?",
         answers:{
             a:"for:each",
